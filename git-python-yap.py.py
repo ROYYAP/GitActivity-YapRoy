@@ -1,3 +1,7 @@
 print("Roy Merjan Yap")
 print("Masiga, Gasan, Marinduque")
 print("August 23, 2000")
+print("Marinduque State College")
+print("BSI/T")
+print("2nd year")
+print("Section B")
